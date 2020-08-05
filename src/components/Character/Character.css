@@ -1,0 +1,30 @@
+.character {
+  height: 100%;
+  -moz-user-select: -moz-none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+}
+
+.kana {
+  margin: auto;
+  font-size: 17px;
+  color: black;
+}
+
+.romaji {
+  margin: auto;
+  font-size: 12px;
+  color: #C3272B;
+  margin-bottom: 1px;
+  font-family: "Arial Regular", Arial;
+  font-weight: bold;
+}
+
+.top-right {
+  border-top-right-radius: 10px;
+}
+
+.bottom-right {
+  border-bottom-right-radius: 10px;
+}
+

@@ -1,0 +1,36 @@
+.table-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
+.table-content {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  margin: auto;
+  width: 100%;
+}
+
+.table-title-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+  margin-bottom: 4px;
+}
+
+.table-title {
+  font-size: 16px;
+  color: #8F1D21;
+  cursor: pointer;
+  -moz-user-select: -moz-none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+}
+
+.selected {
+  border-bottom: 1px solid #8F1D21;
+  font-weight: bold;
+}

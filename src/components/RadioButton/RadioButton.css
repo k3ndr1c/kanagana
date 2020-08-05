@@ -1,0 +1,14 @@
+.radio-button {
+  display: flex;
+  margin: auto;
+  cursor: pointer;
+  height: 100px;
+}
+
+.top-left {
+  border-top-left-radius: 10px;
+}
+
+.bottom-left {
+  border-bottom-left-radius: 10px;
+}

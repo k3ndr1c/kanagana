@@ -1,0 +1,51 @@
+
+.character-table {
+  display: flex;
+  flex-flow: row wrap;
+  position: relative;
+  width: 220px;
+  justify-content: center;
+  overflow-y:auto;
+}
+
+@media only screen and (max-width: 620px) {
+  .character-table {
+    height: 455px;
+  }
+}
+
+
+.character-table .row {
+  display: flex;
+  flex-flow: row;
+  position: relative;
+  cursor: pointer;
+  height: 40px;
+}
+
+.row {
+  border-radius: 100px;
+}
+
+
+.box {
+  height: 100%;
+  width: 40px;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(243, 243, 243);
+}
+
+.button-container {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-evenly;
+  margin-bottom: 5px;;
+}
+
+.button {
+  background-color: #F5F5F4;
+  border-color: #760205;
+  border-radius: 5px;
+}
+

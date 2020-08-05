@@ -1,0 +1,16 @@
+.score-display {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.value {
+  font-size: 24px;
+  font-weight: bold;
+}

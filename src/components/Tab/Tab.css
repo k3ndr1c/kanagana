@@ -1,0 +1,21 @@
+.tab-container {
+  width: 100%;
+  text-align: center;
+  height: 45px;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background: #8F1D21;
+  font-family: "Arial Regular", Arial;
+  color: white;
+  text-shadow: 1px 1px black;
+  -moz-user-select: -moz-none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+}
+
+.tab-title{
+  font-size: 20px;
+}
