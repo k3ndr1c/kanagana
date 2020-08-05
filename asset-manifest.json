@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kanagana/static/css/main.7df9e20d.chunk.css",
+    "main.css": "/kanagana/static/css/main.607298ce.chunk.css",
     "main.js": "/kanagana/static/js/main.995b44aa.chunk.js",
     "main.js.map": "/kanagana/static/js/main.995b44aa.chunk.js.map",
     "runtime-main.js": "/kanagana/static/js/runtime-main.8dca3fd6.js",
@@ -8,16 +8,16 @@
     "static/js/2.add88060.chunk.js": "/kanagana/static/js/2.add88060.chunk.js",
     "static/js/2.add88060.chunk.js.map": "/kanagana/static/js/2.add88060.chunk.js.map",
     "index.html": "/kanagana/index.html",
-    "precache-manifest.3dac3aed59d0f9f378589ae947669687.js": "/kanagana/precache-manifest.3dac3aed59d0f9f378589ae947669687.js",
+    "precache-manifest.1db60bebfe7e2c447d9ec63e41c69980.js": "/kanagana/precache-manifest.1db60bebfe7e2c447d9ec63e41c69980.js",
     "service-worker.js": "/kanagana/service-worker.js",
-    "static/css/main.7df9e20d.chunk.css.map": "/kanagana/static/css/main.7df9e20d.chunk.css.map",
+    "static/css/main.607298ce.chunk.css.map": "/kanagana/static/css/main.607298ce.chunk.css.map",
     "static/js/2.add88060.chunk.js.LICENSE.txt": "/kanagana/static/js/2.add88060.chunk.js.LICENSE.txt",
     "static/media/App.css": "/kanagana/static/media/paper-background.64aa3083.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8dca3fd6.js",
     "static/js/2.add88060.chunk.js",
-    "static/css/main.7df9e20d.chunk.css",
+    "static/css/main.607298ce.chunk.css",
     "static/js/main.995b44aa.chunk.js"
   ]
 }
