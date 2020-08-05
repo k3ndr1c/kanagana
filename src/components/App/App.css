@@ -41,7 +41,7 @@ html, body {
 
 @media only screen and (max-width: 620px) {
   .all {
-    background: #f8f8f8;
+    /* background: #f8f8f8; */
   }
   .content {
     width: 95%;
