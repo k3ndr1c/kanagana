@@ -9,4 +9,4 @@ You can view the page at https://k3ndr1c.github.io/kanagana/
 
 ## Goal
 
-I created this application with the goal to learn the basics of React and to design an Single Page Application that has small scope but challenged my component design capabilities.
+I created this application with the goal to learn the basics of React and to design a Single Page Application that has small scope but challenges my component design capabilities.
